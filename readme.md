@@ -42,7 +42,7 @@ We also include 6 testing images for testing  in the 'image' file under the 'tes
 The datasets can be accessed via: https://pan.baidu.com/s/1_7TP1-p5KLkiOFiG3iGk-A. Its extraction code is: dbhq.
 
 ### Software:
-We also provide an easy-to-use function in the Neuron tracing software GTree. This function allows  user to load the trained model and testing image, and predict the neuron probability.  It can be accessed via: https://pan.baidu.com/s/1ya4LP_sjLJsAyYMn7zjnvQ . The code is ced5.
+We also provide an easy-to-use Neuron Segmentation software GTree with graphics interaction. This Software allows user to load the trained model (DHPR model and USES model) and testing image. Then the predicted neuron probability by the trained model is achieved and can be visualized in the software. The software is accessed via: https://pan.baidu.com/s/1t9CpQ_3cgkLkXbWMi0Uqyw  . The code is josz.
 
 ### Training datasets for Brain-scale:
 We also publish our typical training datasets with 300 neuronal images from brain-scale neuronal dataset to encourage the study of neuron reconstruction. 
