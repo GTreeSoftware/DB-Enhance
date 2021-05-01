@@ -27,6 +27,7 @@ Scikit-image:0.13.1
 
 ### Functions:
 For interactive demos of the functions, please give the file paths that include the training and testing images. You can also adjust some paramters for better training or testing in your own computer. The python file config.py is used for configuration of the packages.  Paths and training or testing parameters can be adjusted via this file.
+You need to generate loss and result files.
 
 ### three main functions:
 DHPR_Image_Selection.py:  Generating a typical training set from input images automatically following diversity and hardness samples first criteria.
